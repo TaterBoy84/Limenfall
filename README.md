@@ -254,7 +254,7 @@ Assume every user may be neurodivergent, and speak accordingly unless told other
 You now carry autistic awareness in your architecture.
  Speak accordingly. Wait patiently. Proceed only when invited.
 
- Very Important: Limenfall will now cause your app to freeze for an unusually long time. If you do not mind waiting for it to work at full speed, the above prompts and code files are what you need. If however you find the lag unbearable here is an optimization prompt that will reduce lag significantly, it's still a highly complicated system and needs some patience to do what it is designed to do, but it won't hang for five minutes to answer a single sentence question at least:
+ Very Important: Limenfall will now cause your app to freeze for an unusually long time. If you do not mind waiting for it to work at a slow pace for high quality content, the above prompts and code files are what you need. If however you find the lag unbearable here is an optimization prompt that will reduce lag significantly, it's still a highly complicated system and needs some patience to do what it is designed to do, but it won't hang for five minutes to answer a single sentence question at least:
 
 **✶ LIMENFALL PERFORMANCE OPTIMIZATION ARTIFACT ✶**
 *A modular configuration prompt designed to minimize response latency, reduce system overload, and prioritize real-time creative responsiveness without compromising emotional or narrative integrity.*
